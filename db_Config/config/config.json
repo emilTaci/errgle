@@ -1,0 +1,35 @@
+{
+  "development": {
+    "database": {
+      "url": "",
+      "options": {
+        "useCreateIndex": true,
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useFindAndModify": true
+      }
+    }
+  },
+  "test": {
+    "database": {
+      "url": "",
+      "options": {
+        "useCreateIndex": true,
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useFindAndModify": true
+      }
+    }
+  },
+  "production": {
+    "database": {
+      "url": "",
+      "options": {
+        "useCreateIndex": true,
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useFindAndModify": true
+      }
+    }
+  }
+}
